@@ -2,9 +2,9 @@
 
 PcTools is a proyect developed using {JavaScript,HTML5,CSS} for frontend and {PHP => Mysql} for backend.
 
-## Future Improvements
+![alt text](https://github.com/ihabfallahy2/PcTools-Proyect/blob/main/PcTools.jpg?raw=true)
 
-![Alt text](https://github.com/ihabfallahy2/PcTools-Proyect/to/PcTools.jpg)
+## Future Improvements
 
 ```php
 
