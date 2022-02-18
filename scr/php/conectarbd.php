@@ -16,7 +16,7 @@
 function conexion()
 {
     try {
-        $bd = new PDO("mysql:host=localhost;dbname=dwes", "root", "");
+        $bd = new PDO("mysql:host=localhost;dbname=dwes", "ihab", "1234");
     } catch (Exception $e) {
         echo $e->getMessage();
         exit;
